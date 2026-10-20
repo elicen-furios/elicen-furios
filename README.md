@@ -5,8 +5,10 @@
 
   <br><br>
 
-  <!-- Main Multi-Color Animated Title Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=Venom&color=gradient&customColorList=6,11,20,24,29&height=130&section=header&text=AKHIL%20DEVELOPER%20PLATFORM&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=52&desc=%E2%9A%A1%20Full-Stack%20Web%20%E2%80%A2%20Audio%20DSP%20%E2%80%A2%20AI%20%26%20Cloud%20Architect%20%E2%9A%A1&descAlignY=78&descSize=16" width="100%" />
+  <!-- 100% Working Main Animated Title (Replaces Broken Top Capsule Banner) -->
+  <a href="https://github.com/elicen-furios">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=34&duration=4500&pause=1500&color=FBBF24&center=true&vCenter=true&width=900&lines=%E2%9A%A1+AKHIL+DEVELOPER+PLATFORM+%E2%9A%A1;FULL-STACK+WEB+%E2%80%A2+AUDIO+DSP+%E2%80%A2+AI+ARCHITECT" alt="Main Platform Title" />
+  </a>
 
   <!-- Slow Animated Multi-Line Typing Subtitle (Color 1: Cyan) -->
   <a href="https://github.com/elicen-furios">
@@ -20,8 +22,10 @@
 
   <br><br>
 
-  <!-- Visitor Counter Badge -->
-  <img src="https://visitcount.itsvg.in/api?id=elicen-furios&label=LIVE%20PROFILE%20VISITS&color=9&icon=5&pretty=true" alt="Profile Views" />
+  <!-- 100% Working Shields.io Neon Badges (Zero Broken Links) -->
+  <img src="https://img.shields.io/badge/PLATFORM-AKHIL_STUDIO-00f7ff?style=for-the-badge&logo=protools&logoColor=black" alt="Platform" />
+  <img src="https://img.shields.io/github/followers/elicen-furios?label=FOLLOWERS&color=ff2a85&style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_FUTURE-a855f7?style=for-the-badge&logo=prometheus&logoColor=white" alt="Status" />
 
 </div>
 
@@ -40,6 +44,8 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=17&duration=6500&pause=1500&color=F472B6&center=true&vCenter=true&width=850&lines=%F0%9F%92%AC+Ask+Me+About+%3A+Python%2C+Flask%2C+Next.js%2C+Supabase%2C+Termux+%26+Cloud+APIs;%E2%9A%A1+Philosophy+%3A+Write+Clean+Code%2C+Design+Aesthetic+UIs+%26+Push+Limits!" alt="Bio Line 2" />
 
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=17&duration=6500&pause=1500&color=10B981&center=true&vCenter=true&width=850&lines=%F0%9F%9B%A0%EF%B8%8F+Transforming+Mobile+Terminals+Into+Full-Scale+Production+Studios;%F0%9F%92%8E+Brand+%26+Architecture+%3A+Akhil+(Akhil+Developer+Platform)" alt="Bio Line 3" />
+
 </div>
 
 <!-- Animated Gradient Divider -->
@@ -50,14 +56,14 @@
   <!-- Animated Section Header 2: SOCIAL NETWORKS -->
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=25&duration=5000&pause=2000&color=00F5D4&center=true&vCenter=true&width=550&lines=%F0%9F%8C%90+CONNECT+WITH+AKHIL+%F0%9F%8C%90;%F0%9F%94%97+OFFICIAL+SOCIAL+HUB" alt="Socials Header" />
 
-  <br>
+  <br><br>
 
-  [![YouTube](https://img.shields.io/badge/YouTube-Akhil_Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-  [![Instagram](https://img.shields.io/badge/Instagram-Akhil_Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-  [![GitHub](https://img.shields.io/badge/GitHub-elicen--furios-00F5D4?style=for-the-badge&logo=github&logoColor=black)](https://github.com/elicen-furios)
-  [![Discord](https://img.shields.io/badge/Discord-Akhil_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-  [![X](https://img.shields.io/badge/X-Akhil_Network-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-Akhil_Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-Akhil_Dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/elicen-furios"><img src="https://img.shields.io/badge/GitHub-elicen--furios-00F5D4?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Akhil_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/X-Akhil_Network-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Akhil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -70,6 +76,9 @@
 
   <!-- Animated Section Header 3: FEATURED PROJECTS -->
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=25&duration=5000&pause=2000&color=FBBF24&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+FLAGSHIP+PROJECTS+%26+CREATIONS+%F0%9F%9A%80;%E2%9A%A1+POWERED+BY+AKHIL+DEVELOPER+PLATFORM" alt="Projects Header" />
+
+  <!-- Animated Project Descriptions (Multi-Color Slow Ticker) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=6000&pause=1500&color=F59E0B&center=true&vCenter=true&width=850&lines=%F0%9F%8E%A7+ECHO-REVERSE+%3A+33%2B+Real-Time+Audio+DSP+Effects+%26+8D+Studio;%F0%9F%8E%99%EF%B8%8F+AKHI+CLOUD+ENGINE+%3A+Ultra-Low+Latency+AI+Voice+Synthesis;%F0%9F%A4%96+AKHIL+AI+WEBSITE+GEN+%3A+Automated+Full-Stack+Code+Synthesizer;%F0%9F%9B%B0%EF%B8%8F+GODS-EYE+%3A+Real-Time+Reconnaissance+%26+Live+API+Interface" alt="Projects Ticker" />
 
 </div>
 
@@ -99,24 +108,24 @@
   <!-- Animated Section Header 4: TECH STACK -->
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=25&duration=5000&pause=2000&color=38BDF8&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB+TECHNOLOGY+ARSENAL+%26+TOOLS+%F0%9F%92%BB;%F0%9F%94%A5+LANGUAGES%2C+FRAMEWORKS+%26+CLOUD+DSP" alt="Tech Stack Header" />
 
-  <br>
+  <br><br>
 
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![FFmpeg](https://img.shields.io/badge/FFmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white)
-  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-  ![Termux](https://img.shields.io/badge/Termux-%23000000.svg?style=for-the-badge&logo=android&logoColor=00FF66)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FFmpeg-%23007808.svg?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Termux-%23000000.svg?style=for-the-badge&logo=android&logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
@@ -127,16 +136,12 @@
 
 <div align="center">
 
-  <!-- Animated Section Header 5: TROPHIES & STATS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=25&duration=5000&pause=2000&color=EC4899&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+GITHUB+HALL+OF+FAME+%26+METRICS+%F0%9F%8F%86;%F0%9F%93%8A+REAL-TIME+CONTRIBUTION+ANALYTICS" alt="Stats Header" />
-
-  <br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=elicen-furios&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" alt="GitHub Trophies" />
+  <!-- Animated Section Header 5: LIVE METRICS -->
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=400&size=25&duration=5000&pause=2000&color=EC4899&center=true&vCenter=true&width=650&lines=%F0%9F%93%8A+REAL-TIME+CONTRIBUTION+ANALYTICS+%F0%9F%93%8A;%E2%9A%A1+LIVE+GITHUB+ACTIVITY+MATRIX" alt="Stats Header" />
 
   <br><br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elicen-furios&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <!-- Working GitHub Language & Streak Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elicen-furios&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 
   <br><br>
